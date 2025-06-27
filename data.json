@@ -1,0 +1,122 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "title": "men",
+      "prefix": "men",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/category-men.jpg",
+      "max": 3
+    },
+    {
+      "id": "2",
+      "title": "women",
+      "prefix": "women",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/category-woman.jpg",
+      "max": 4
+    },
+    {
+      "id": "3",
+      "title": "kids",
+      "prefix": "kids",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/category-kids.jpg",
+      "max": 2
+    },
+    {
+      "id": "4",
+      "title": "baby",
+      "prefix": "baby",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/category-baby.jpg",
+      "max": 1
+    },
+    {
+      "id": "5",
+      "title": "sport",
+      "prefix": "sport",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/category-sport.jpg",
+      "max": 4
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Black shirt",
+      "price": 249,
+      "cat_prefix": "men",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/man-black-shirt.jpg",
+      "max": 3
+    },
+    {
+      "id": "2",
+      "title": "Grey tshirt",
+      "price": 229,
+      "cat_prefix": "men",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/man-grey-tshirt.jpg",
+      "max": 5
+    },
+    {
+      "id": "3",
+      "title": "Cotton white shirt",
+      "price": 200,
+      "cat_prefix": "men",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/man-white-longsleeve.jpg",
+      "max": 4
+    },
+    {
+      "id": "4",
+      "title": "Cotton t-shirt",
+      "price": 100,
+      "cat_prefix": "women",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/woman-white-top.jpg",
+      "max": 4
+    },
+    {
+      "id": "5",
+      "title": "Blouse",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/woman-blouse.jpg",
+      "max": 4
+    },
+    {
+      "id": "6",
+      "title": "Green T-shirt",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/boy-green-t-shirt.jpg",
+      "max": 4
+    },
+    {
+      "id": "7",
+      "title": "Red T-shirt",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/boy-red-t-shirt.jpg",
+      "max": 4
+    },
+    {
+      "id": "8",
+      "title": "Bear suit",
+      "price": 500,
+      "cat_prefix": "baby",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/baby-bear-suit.jpg",
+      "max": 4
+    },
+    {
+      "id": "9",
+      "title": "Onesie",
+      "price": 500,
+      "cat_prefix": "baby",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/baby-girl-onesie.jpg",
+      "max": 4
+    },
+    {
+      "id": "10",
+      "title": "Football jacket",
+      "price": 449,
+      "cat_prefix": "sport",
+      "img": "https://raw.githubusercontent.com/MarwaAmir-74/assets/main/assets/football-jacket.jpg",
+      "max": 4
+    }
+  ],"wishlist": [
+  ]
+}
